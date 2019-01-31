@@ -2,7 +2,7 @@
 
 int main(void) {
   int Number, Count, Counter;
-  printf("Enter the number, to find wheather the given number is prime or not:");
+  printf("find the number, to find wheather the given number is prime or not:");
   scanf("%d", &Number);
   if(Number <= 3)
   {
